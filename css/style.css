@@ -30,12 +30,12 @@ main {
     color: rgb(89, 0, 255);
   }
   .contact {
-      color: darkgoldenrod;
+    color: darkgoldenrod;
   }
   .menu li {
     display: inline;
 
-    /* Dodaję  background-color sekcji "About us */
+  /* Dodaję  background-color sekcji "About us */
   }
   #about-us{
     background-color: rgba(0, 38, 255, 0.37);
@@ -64,43 +64,23 @@ main {
     background-color: rgb(174, 0, 255);
   }
 
-    .div-4{
+  .div-4{
     background-color: rgb(255, 136, 0);
-    }
+  }
 
-    /* Style do sekcji "Portfolio" */
-    #portfolio{
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    .portfolio-1{
-      width: 20pc;
-      height: 20pc;
-      padding: 0 5px;
-      border: 5px solid;
-      border-color: rgb(238, 51, 18);
-      background-color: aliceblue;
-    } 
-    .portfolio-2{
-      width: 20pc;
-      height: 20pc;
-      padding: 0 5px;
-      padding-bottom: auto;
-      border: 5px solid;
-      border-color: rgb(26, 29, 236);
-      background-color: aliceblue;
-
-    }
-  
-    .portfolio-3{
-      width: 20pc;
-      height: 20pc;
-      padding: 0 5px;
-      border: 5px solid;
-      border-color: rgb(106, 15, 224);
-      background-color: aliceblue;
-    }
-
+   /* Style do sekcji "Portfolio" */
+  #portfolio{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .section-portfolio{
+    width: 20pc;
+    height: 20pc;
+    padding: 0 5px;
+    border: 5px solid;
+    border-color: rgb(238, 51, 18);
+    background-color: aliceblue;
+  } 
+    
 
    
